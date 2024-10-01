@@ -50,4 +50,4 @@ To predict the class of new images:
 ## Place the images in the designated test folder.
 Run the prediction code to display the images along with their predicted class names and probabilities.
 
-The training accuracy and test accuracy is 0.9717 and 0.9414 and the model is well fitted.
+The training accuracy and test accuracy is 0.9717 and 0.9414 respectively and the model is well fitted.
