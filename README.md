@@ -16,8 +16,6 @@ This project aims to classify images of various plant diseases using a convoluti
 ## Installation
 
 To run this project, ensure you have the following libraries installed in your Python environment:
-
-```bash
 pip install kaggle
 pip install torchsummary
 pip install numpy
